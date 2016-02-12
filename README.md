@@ -2,11 +2,11 @@
 
 ### CSS utils class for keep you DRY ###
 
-    npm install drycss --save
+    npm install dry-css --save
 
-    @import 'node_modules/drycss/sass/drycss';
+    @import 'node_modules/dry-css/sass/dry-css';
 
 
    You can view all the classes by run local server inside:
 
-    node_modules/drycss/styleguide/index.html
+    node_modules/dry-css/styleguide/index.html
