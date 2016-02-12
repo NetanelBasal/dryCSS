@@ -1,6 +1,6 @@
 {
   "name": "dry-css",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CSS utils class for keep you DRY",
   "main": "index.js",
   "scripts": {
