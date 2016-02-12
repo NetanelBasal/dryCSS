@@ -1,0 +1,235 @@
+.textRight {
+  text-align: right; }
+
+.textLeft {
+  text-align: left; }
+
+.textCenter {
+  text-align: center; }
+
+.decoOverLine {
+  text-decoration: overline; }
+
+.decoLineThrough {
+  text-decoration: line-through; }
+
+.decoUnderline {
+  text-decoration: underline; }
+
+.uppercase {
+  text-transform: uppercase; }
+
+.lowercase {
+  text-transform: lowercase; }
+
+.capitalize {
+  text-transform: capitalize; }
+
+.textTruncate {
+  text-overflow: ellipsis; }
+
+.width100 {
+  width: 100%; }
+
+.width50 {
+  width: 50%; }
+
+.width0 {
+  width: 0; }
+
+.maxWidth100 {
+  max-width: 100%; }
+
+.height100 {
+  height: 100%; }
+
+.height50 {
+  height: 50%; }
+
+.height0 {
+  height: 0; }
+
+.displayInline {
+  display: inline; }
+
+.displayInlineBlock {
+  display: inline-block; }
+
+.displayBlock {
+  display: block; }
+
+.displayTable {
+  display: table; }
+
+.displayNone {
+  display: none; }
+
+.visibile {
+  visibility: visible; }
+
+.nonVisible {
+  visibility: hidden; }
+
+.flex {
+  display: flex; }
+
+.flexDirectionRow {
+  flex-direction: row; }
+
+.flexDirectionColumn {
+  flex-direction: column; }
+
+.flexWrap {
+  flex-wrap: wrap; }
+
+.flexNowrap {
+  flex-wrap: nowrap; }
+
+.justifyStart {
+  justify-content: flex-start; }
+
+.justifyEnd {
+  justify-content: flex-end; }
+
+.justifySpaceAround {
+  justify-content: space-around; }
+
+.justifyCenter {
+  justify-content: center; }
+
+.alignItemsStart {
+  align-items: flex-start; }
+
+.alignItemsEnd {
+  align-items: flex-end; }
+
+.alignItemsCenter {
+  align-items: center; }
+
+.alignItemsBase {
+  align-items: baseline; }
+
+.alignSelfStart {
+  align-self: flex-start; }
+
+.alignSelfEnd {
+  align-self: flex-end; }
+
+.alignSelfCenter {
+  align-self: center; }
+
+.alignSelfBase {
+  align-self: baseline; }
+
+.flexOne {
+  flex: 1; }
+
+.flexBasis25 {
+  flex-basis: 25%; }
+
+.flexBasis50 {
+  flex-basis: 50%; }
+
+.flexBasis100 {
+  flex-basis: 100%; }
+
+.flexShrink0 {
+  flex-shrink: 0; }
+
+.flexGrow0 {
+  flex-grow: 0; }
+
+.order1 {
+  order: 1; }
+
+.order2 {
+  order: 2; }
+
+.order3 {
+  order: 3; }
+
+.order4 {
+  order: 4; }
+
+.order5 {
+  order: 5; }
+
+.floatLeft {
+  float: left; }
+
+.floatRight {
+  float: right; }
+
+.clearBoth {
+  clear: both; }
+
+.clearLeft {
+  clear: left; }
+
+.clearRight {
+  clear: right; }
+
+.overflowHidden {
+  overflow: hidden; }
+
+.overflowScroll {
+  overflow: scroll; }
+
+.overflowXHidden {
+  overflow-x: hidden; }
+
+.overflowXScroll {
+  overflow-x: scroll; }
+
+.overflowYHidden {
+  overflow-y: hidden; }
+
+.overflowYScroll {
+  overflow-y: scroll; }
+
+.relative {
+  position: relative; }
+
+.absolute {
+  position: absolute; }
+
+.fixed {
+  position: fixed; }
+
+.zIndexMinus1 {
+  z-index: -1; }
+
+.zIndex1 {
+  z-index: 1; }
+
+.zIndex2 {
+  z-index: 2; }
+
+.left0 {
+  left: 0; }
+
+.top0 {
+  top: 0; }
+
+.bottom0 {
+  bottom: 0; }
+
+.right0 {
+  right: 0; }
+
+.left100 {
+  left: 100%; }
+
+.top100 {
+  top: 100%; }
+
+.bottom100 {
+  bottom: 100%; }
+
+.right100 {
+  right: 100%; }
+
+.textEllipsis {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap; }

@@ -1,0 +1,144 @@
+// Flex
+//
+// .flex -    display: flex
+// .flexDirectionRow -  flex-direction: row
+// .flexDirectionColumn -   flex-direction: column
+// .flexWrap -   flex-wrap: wrap
+// .flexNowrap -   flex-wrap: nowrap
+// .justifyStart - justify-content: flex-start
+//.justifyEnd  - justify-content: flex-end
+//.justifySpaceAround  - justify-content: space-around
+//.justifyCenter - justify-content: center
+//.alignItemsStart - align-items: flex-start
+//.alignItemsEnd - align-items: flex-end
+//.alignItemsCenter - align-items: center
+//.alignItemsBase - align-items: baseline
+//.alignSelfStart - align-items: flex-start
+//.alignSelfEnd - align-items: flex-end
+//.alignSelfCenter - align-items: center
+//.alignSelfBase - align-items: baseline
+//.flexOne - flex: 1
+//.flexShrink0 - flex-shrink: 0
+//.flexGrow0 - flex-grow: 0
+//.flexBasis25 - flex-basis: 25%
+//.flexBasis50 - flex-basis: 50%
+//.flexBasis100 - flex-basis: 100%
+//.order1 - order: 1
+//.order2 - order: 2
+//.order3 - order: 3
+//.order4 - order: 4
+//.order5 - order: 5
+//
+// Style guide: Flex
+
+.flex {
+  display: flex;
+}
+
+.flexDirectionRow {
+  flex-direction: row;
+}
+
+.flexDirectionColumn {
+  flex-direction: column;
+}
+
+.flexWrap {
+  flex-wrap: wrap;
+}
+
+.flexNowrap {
+  flex-wrap: nowrap;
+}
+
+.justifyStart {
+  justify-content: flex-start;
+}
+
+.justifyEnd {
+  justify-content: flex-end;
+}
+
+.justifySpaceAround {
+  justify-content: space-around;
+}
+
+.justifyCenter {
+  justify-content: center;
+}
+
+.alignItemsStart {
+  align-items: flex-start;
+}
+
+.alignItemsEnd {
+  align-items: flex-end;
+}
+
+.alignItemsCenter {
+  align-items: center;
+}
+
+.alignItemsBase {
+  align-items: baseline;
+}
+
+.alignSelfStart {
+  align-self: flex-start;
+}
+
+.alignSelfEnd {
+  align-self: flex-end;
+}
+
+.alignSelfCenter {
+  align-self: center;
+}
+
+.alignSelfBase {
+  align-self: baseline;
+}
+
+.flexOne {
+  flex: 1;
+}
+
+.flexBasis25 {
+  flex-basis: 25%;
+}
+
+.flexBasis50 {
+  flex-basis: 50%;
+}
+
+.flexBasis100 {
+  flex-basis: 100%;
+}
+
+.flexShrink0 {
+  flex-shrink: 0;
+}
+
+.flexGrow0 {
+  flex-grow: 0;
+}
+
+.order1 {
+  order: 1;
+}
+
+.order2 {
+  order: 2;
+}
+
+.order3 {
+  order: 3;
+}
+
+.order4 {
+  order: 4;
+}
+
+.order5 {
+  order: 5;
+}

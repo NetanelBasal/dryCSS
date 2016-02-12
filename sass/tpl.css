@@ -1,0 +1,56 @@
+#kss-node {
+  background: #45484d; /* Old browsers */
+  background: -moz-linear-gradient(top, hsla(218, 5%, 29%, 1) 0%, hsla(0, 0%, 0%, 1) 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, hsla(218, 5%, 29%, 1) 0%, hsla(0, 0%, 0%, 1) 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, hsla(218, 5%, 29%, 1) 0%, hsla(0, 0%, 0%, 1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#45484d', endColorstr='#000000', GradientType=0); /* IE6-9 */
+  color: #fff;
+  font-family: sans-serif;
+}
+
+#kss-node .kss-title__ref {
+  display: none;
+}
+
+#kss-node .kss-title__permalink {
+  color: #fff;
+}
+
+.kss-style {
+  color: #F3A2A2;
+}
+
+#kss-node .kss-sidebar {
+  background: #FFEBCD !important;
+}
+
+.kss-style a:visited {
+  color: #4E2034;
+}
+
+.kss-style a {
+  color: #4E2034;
+}
+
+#kss-node .kss-title__permalink:hover, #kss-node .kss-title__permalink:focus, #kss-node .kss-title__permalink:active {
+  color: #fff;
+  text-decoration: underline;
+}
+
+#kss-node .kss-modifier__name {
+  color: #FFC200;
+  margin-bottom: 0.5rem;
+}
+
+#kss-node ol.linenums {
+  padding: 0;
+}
+
+#kss-node .kss-modifier__description {
+  display: none;
+}
+
+#kss-node .kss-parameters__name {
+  color: #FFC200;
+
+}
