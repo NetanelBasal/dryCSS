@@ -1,5 +1,5 @@
 {
-  "name": "drycss",
+  "name": "dry-css",
   "version": "1.0.0",
   "description": "CSS utils class for keep you DRY",
   "main": "index.js",
