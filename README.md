@@ -7,6 +7,6 @@
     @import 'node_modules/dry-css/sass/dry-css';
 
 
-   You can view all the classes by run local server inside:
-
-    node_modules/dry-css/styleguide/index.html
+ [Documentation](http://drycss.byethost7.com/section-flex.html)
+ 
+ feel free to contribute :)
